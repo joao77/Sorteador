@@ -64,7 +64,5 @@ public class PaginaDaSorteBean  implements Serializable {
         sorteados = sorteadormemoriaBean.ListarNumerosSorteados();
         return sorteados;
     }
-   
-    
-    
+        
 }
